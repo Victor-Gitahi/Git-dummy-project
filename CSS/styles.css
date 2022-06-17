@@ -22,7 +22,7 @@ a {
 }
 
 .logo {
-  font-family: "Spaced";
+  font-family: "Spaced", "Poppins", sans-serif;
   font-weight: bold;
   color: tomato;
   line-height: 1;
@@ -33,7 +33,7 @@ a {
   justify-content: space-between;
   width: 40%;
   list-style-type: none;
-  font-family: 'Zaio';
+  font-family: 'Zaio', "Poppins", sans-serif;
 }
 
 .nav-links li a {
